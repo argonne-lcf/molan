@@ -1,0 +1,30 @@
+name: mp_ml
+channels:
+- rdkit
+- pytorch
+- defaults
+- conda-forge
+dependencies:
+- rdkit
+- numpy
+- ipython
+- jupyter
+- matplotlib
+- numpy
+- pandas
+- scipy
+- seaborn
+- tqdm
+- sklearn
+- cudatoolkit
+- cudnn
+- tensorflow-gpu
+- pytorch
+- pip:
+  - gpflow
+  - selfies
+  - torch-scatter
+  - torch-sparse
+  - torch-cluster
+  - torch-spline-conv
+  - torch-geometric
