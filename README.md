@@ -17,7 +17,7 @@ A simple way of getting that is installing [Anaconda](https://www.anaconda.com/d
 
 First to clone the github and then replicate a new anaconda environment using the **environment.yml** file:
 ```
-git clone https://github.com/beangoben/melting_points_ml
+git clone https://github.com/argonne-lcf/melting_points_ml
 cd melting_points_ml
 conda env create -f environment.yml
 ```
