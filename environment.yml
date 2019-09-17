@@ -3,6 +3,7 @@ channels:
 - rdkit
 - pytorch
 - defaults
+- pytorch
 - conda-forge
 dependencies:
 - rdkit
@@ -12,11 +13,11 @@ dependencies:
 - matplotlib
 - numpy
 - pandas
+- cudatoolkit
 - scipy
 - seaborn
 - tqdm
-- sklearn
-- cudatoolkit
+- scikit-learn
 - cudnn
 - tensorflow-gpu
 - pytorch
