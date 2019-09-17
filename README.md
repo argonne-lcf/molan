@@ -44,3 +44,10 @@ Visit [google colab](https://colab.research.google.com/) (requires a gdrive acco
 
 ## Acknowledgements
 This research used resources of the Argonne Leadership Computing Facility, which is a DOE Office of Science User Facility supported under Contract DE-AC02-06CH11357. Argonne National Laboratory’s work was supported by the U.S. Department of Energy, Office of Science, under contract DE-AC02-06CH11357.
+
+## Code contributors
+* Benjamin Sanchez-Lengeling <beangoben::AT:::gmail.com>
+* Ganesh Sivaraman <gsivaraman:AT::anl.gov>
+* Nicholas Jackson <jackson.nick.e::aT:gmail.com>
+* Alvaro Vazquez-Mayagoitia <alvaro::At:anl.gov>
+* Alan Aspuru-Guzik <aspuru::at:utoronto.ca>
