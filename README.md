@@ -1,8 +1,14 @@
-# Melting Point Insights and Prediction from a Diversified Machine Learning Strategy
+# MOLAN, A Machine Learning Workflow for MolecularAnalysis:  Application to Melting Points
 
 ![](media/banner.png)
 
-
+If you are using the MOLAN workflow  in your research paper, please cite us as
+```
+@article{sivaramandiversified,
+  title={A diversified machine learning strategy for predicting and understanding molecular melting points},
+  author={Sivaraman, Ganesh and Jackson, Nicholas E and Sanchez-Lengeling, Benjamin and V{\'a}zquez-Mayagoitia, {\'A}lvaro and Aspuru-Guzik, Al{\'a}n and Vishwanath, Venkatram and de Pablo, Juan J}
+}
+```
 
 
 
