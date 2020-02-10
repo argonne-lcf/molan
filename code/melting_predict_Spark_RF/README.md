@@ -1,7 +1,5 @@
 # Melting Temperature Prediction With Apache Spark
 
-**Author**: Ganesh Sivaraman (gsivaraman@anl.gov)
-
 
 The aim of the project is to predict melting point (MP) for an [open database of 47000 organic molecules](https://pubs.acs.org/doi/abs/10.1021/ci5005288). The data set has information on the  experimental melting temperatures. We took the chemical information  from this  open dataset and computed some of additional properties  using electronic structure theory.
 
