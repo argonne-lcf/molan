@@ -28,7 +28,7 @@ The workflow has the following capability:
 6.)  Detailed JSON output containing  timing information, model parameters, predictions and multiple regression metrics for the chosen datasets.
 
 
-For the production runs, We used up to  8 nodes on Cooley. 
+For the production runs, We used up to  8 nodes on [ALCF Cooley](https://www.alcf.anl.gov/support-center/cooley/cooley-system-overview). 
 
 ## The workflow script
 
